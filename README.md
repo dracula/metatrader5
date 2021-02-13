@@ -2,7 +2,7 @@
 
 > A dark theme for [Meta Trader 5](https://www.metatrader5.com/).
 
-![Screenshot](dracula mt5.png)
+![Screenshot](https://github.com/SergioBonatto/Dracula-MetaTrader5/blob/master/dracula%20mt5.png)
 
 ## Install
 
